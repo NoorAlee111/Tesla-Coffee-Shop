@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Cofee Shop\Cofee Shop\obj\Debug\Cofee Shop.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Cofee Shop\Cofee Shop\obj\Debug\Cofee Shop.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Cofee Shop\Cofee Shop\bin\Debug\Cofee Shop.exe.config
+C:\Users\DELL\source\repos\Cofee Shop\Cofee Shop\bin\Debug\Cofee Shop.exe
+C:\Users\DELL\source\repos\Cofee Shop\Cofee Shop\bin\Debug\Cofee Shop.pdb
+C:\Users\DELL\source\repos\Cofee Shop\Cofee Shop\obj\Debug\Cofee Shop.exe
+C:\Users\DELL\source\repos\Cofee Shop\Cofee Shop\obj\Debug\Cofee Shop.pdb
